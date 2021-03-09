@@ -14,11 +14,5 @@ router.put ("/api/workouts", function (req, res){
     })
 })
 
-router.post ("/api/workouts", function (req, res){
-    db.Workout.find().then(function(result){
-        res.json(result)
-    })
-})
-
 
 module.exports = router 
