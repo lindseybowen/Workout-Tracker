@@ -14,10 +14,10 @@ A fitness app that allows the user to view, create, and track daily workouts. Th
 ![Screenshot Deployed Website](public/images/Homepage.png)
 ![Screenshot Deployed Website](public/images/NewWorkout.png)
 ## Installation
-Users can view the deployed project [here](heroku link). If you intend to iterate on the project, besides downloading the repo to your machine, be sure to run npm i in the root directory and to also have MongoDB installed and ready.
+ Download the repo to your machine, be sure to run npm i in the root directory and to also have MongoDB installed and ready.
 
 ## Contributing
-Anyone is welcome to iterate on this project. I can be reached at the email below with any questions related to working on this project.
+Anyone is welcome to add on this project. I can be reached at the email below with any questions related to working on this project.
 
 ## Questions
 Please contact me below with any questions you have about the appiction.
